@@ -1,0 +1,2 @@
+#!/bash/bin echo $((`echo $PATH | grep -0"!/" | wc -l` +1))
+
