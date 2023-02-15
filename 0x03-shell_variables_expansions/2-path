@@ -1,2 +1,3 @@
-#!/bin/bash PASTE=$PATH:/action
+#!/bin/bash PATH=$PATH:/action
+
 
